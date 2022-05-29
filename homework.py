@@ -47,7 +47,7 @@ class Training:
 
     def get_spent_calories(self) -> None:
         """Получить количество затраченных калорий."""
-        raise NotImplementedError('Определите run в %s.'
+        raise NotImplementedError('Определите метод get_spent_calories в %s.'
                                   % (self.__class__.__name__))
 
     def show_training_info(self) -> InfoMessage:
