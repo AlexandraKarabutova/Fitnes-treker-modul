@@ -1,5 +1,4 @@
-## Модуль фитнес-трекера
+## Fitness Tracker Module
+The project is implemented using object-oriented programming principles.
 
-Проект реализован с использованием принципов ООП.
-
-Позволяет рассчитать интенсивность и количество затраченных ккал во время тренировки при получении сведений от модулей датчиков фитнес-трекера.
+It allows calculating the intensity and the number of calories burned during a workout by receiving information from fitness tracker sensor modules.
